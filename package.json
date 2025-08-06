@@ -65,5 +65,13 @@
     "update-browserslist-db": "^1.1.3",
     "utility-types": "^3.11.0",
     "weak-lru-cache": "^1.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pocati/ebac_tech_talks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pocati/ebac_tech_talks/issues"
+  },
+  "homepage": "https://github.com/Pocati/ebac_tech_talks#readme"
 }
